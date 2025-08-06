@@ -1,4 +1,4 @@
-const {Tour} =require('../models/Tour')
+const {Tour} = require('../models/Tour')
 const express = require('express');
 const router  = express.Router();
 const cloudinary = require('cloudinary').v2;
